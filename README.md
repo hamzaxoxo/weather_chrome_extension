@@ -1,6 +1,6 @@
 # Weather Forecast Chrome Extension
 
-![Weather Forecast Logo](link-to-your-logo-image) <!-- Optional: Add an image of your extension or logo -->
+![Weather Forecast Logo](https://github.com/user-attachments/assets/e8c73d01-78db-46e7-9399-a729030474c9)
 
 ## Overview
 
@@ -70,7 +70,7 @@ Thank you for using Weather Forecast! If you find this extension useful, please 
 
 # Weather Forecast Chrome Extension
 
-![Weather Forecast Logo](link-to-your-logo-image) <!-- Optional: Add an image of your extension or logo -->
+![Weather Forecast Logo](https://github.com/user-attachments/assets/e8c73d01-78db-46e7-9399-a729030474c9)
 
 ## Overview
 
@@ -130,7 +130,7 @@ This project is licensed under the [MIT License](LICENSE). See the [LICENSE](LIC
 
 ## Contact
 
-For questions or support, please contact [Your Name](mailto:your-email@example.com).
+For questions or support, please contact [Hamza Malik](mailto:your-email@example.com).
 
 ## Acknowledgments
 
